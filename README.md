@@ -1,6 +1,6 @@
 # name_transmission
 
-This repository contains supplementary material for the paper "Name Transmission Relationships in England (1838-2014)".
+This repository contains supplementary material for the paper [Name Transmission Relationships in England (1838-2014)](https://ans-names.pitt.edu/ans/article/view/2500).
 
 The number of records per region, and the years and regions covered, are given in **Supplementary Table 1**.
 
